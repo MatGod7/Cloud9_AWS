@@ -37,3 +37,5 @@ Para saber algunas de las cosas en las que esta fallando el código de manera in
 
 [![Python application test with Github Actions](https://github.com/MatGod7/Cloud9_AWS/actions/workflows/main.yml/badge.svg)](https://github.com/MatGod7/Cloud9_AWS/actions/workflows/main.yml)
 
+
+Esto muestra paso a paso que cosas esta corriendo y donde hay error.

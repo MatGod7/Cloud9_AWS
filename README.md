@@ -31,3 +31,9 @@ Para verificar que uno esta dentro del entorno se usa " which python"
 
 En el Makefile se utilizan varios comandos para actualizar y probar cosas. (ver comentarios de Makefile para más detalles)
 
+
+
+Para saber algunas de las cosas en las que esta fallando el código de manera interactiva, se utlizan los Github actions.
+
+[![Python application test with Github Actions](https://github.com/MatGod7/Cloud9_AWS/actions/workflows/main.yml/badge.svg)](https://github.com/MatGod7/Cloud9_AWS/actions/workflows/main.yml)
+
